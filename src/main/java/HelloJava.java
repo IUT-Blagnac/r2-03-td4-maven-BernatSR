@@ -8,6 +8,9 @@ class HelloJava {
 	System.out.println("Hello Blagnac");
 }
 
+/**
+ * Cette méthode affiche un cancan
+ */
 public void afficherCancan(){
 }
 }
